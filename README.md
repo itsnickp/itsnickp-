@@ -72,7 +72,7 @@ I build custom web scrapers that extract data from sites others fail at:
 
 ## Contact
 
-**Email:** your-email@gmail.com  
+**Email:** nikitpandey18@gmail.com 
 **Response time:** 2-4 hours  
 **Time zone:** UTC+5:45 (Nepal)
 
